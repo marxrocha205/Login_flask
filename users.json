@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "scrypt:32768:8:1$eDiYZr78niBQzWxv$fa802d99abb7d15309894bd21407fa75ee070afaced4e05f3a65399ad8cd48da562ffdd720885df25131d1612a89349fb105f65b2834a98aa377386f053a3769",
+        "role": 1
+    },
+    "marx": {
+        "password": "scrypt:32768:8:1$m5bnWeTq9L638gF2$519eece7d33bd8198a6d99e9c1fe9d041a719a62f496c2cb6c1da2b738b9c50a332eb63a70d912e5f753f0f6832b2fa548056171c84ac9b3b7e97c36daa1f92d",
+        "role": 0
+    }
+}
